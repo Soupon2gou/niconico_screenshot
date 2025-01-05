@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>ニコニコスクショ</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 10px; }
+    .button-container {
+      display: flex;
+      gap: 80px;
+    }
+    button { padding: 10px 20px; font-size: 16px; }
+    canvas {
+      width: 0%; 
+      height: 100%; 
+    }
+  </style>
+</head>
+<body>
+  <h1>ニコニコスクショ</h1>
+  <div class="button-container">
+    <button id="capture-btn-with-comments">コメあり</button>
+    <button id="capture-btn-no-comments">コメなし</button>
+  </div>
+  <canvas id="screenshot-canvas"></canvas>
+  <p id="status"></p>
+  <script src="popup.js"></script>
+</body>
+</html>
