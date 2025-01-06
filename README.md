@@ -1,1 +1,1 @@
-# niconico_screenshot
+# ニコショ

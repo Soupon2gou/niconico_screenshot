@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "ニコニコスクショ",
+    "name": "ニコショ",
     "version": "1.0",
     "description": "ニコニコ動画のスクリーンショットを簡単に撮るChrome拡張",
     "permissions": [
@@ -12,7 +12,7 @@
         "default_icon": {
           "128": "icon128.png"
         },
-        "default_title": "ニコニコスクショ",
+        "default_title": "ニコショ",
         "default_popup": "popup.html"
       }
   }
