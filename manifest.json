@@ -10,7 +10,7 @@
     ],
     "action": {
         "default_icon": {
-          "128": "icon128.png"
+          "128": "images\\icon128.png"
         },
         "default_title": "ニコショ",
         "default_popup": "popup.html"
