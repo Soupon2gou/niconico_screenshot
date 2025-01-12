@@ -34,4 +34,4 @@ Githubでソースを公開中です
 https://github.com/Soupon2gou/niconico_screenshot
 
 ### プライバシーポリシー
-https://chrome.nico_sho.io/
+[https://chrome.nico_sho.io/](https://soupon2gou.github.io/chrome.nico_sho.io/)
