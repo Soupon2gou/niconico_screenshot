@@ -32,3 +32,6 @@ Discord : Soupon2gou
 ### ソース
 Githubでソースを公開中です
 https://github.com/Soupon2gou/niconico_screenshot
+
+### プライバシーポリシー
+https://chrome.nico_sho.io/
